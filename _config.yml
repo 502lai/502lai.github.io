@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '赖荣阳sd'
+title: '赖荣阳's blog'
 description: '昵称ZZET，开发者/伪极客/灵魂摄影师，热爱技术。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '赖荣阳, 赖荣阳的独立博客, 赖荣阳的博客, 安全, 开发, 技术博客，生活点滴'
 url: 'https://502lai.github.io' # your host
@@ -27,7 +27,7 @@ footer:
 author: '赖荣阳'
 nickname: 'ZZET'
 bio: '开发者，热爱技术，简单乐观爱创造'
-avatar: '/assets/img/profile.JPG'
+avatar: '/assets/img/profile.png'
 
 # Search
 search: true
