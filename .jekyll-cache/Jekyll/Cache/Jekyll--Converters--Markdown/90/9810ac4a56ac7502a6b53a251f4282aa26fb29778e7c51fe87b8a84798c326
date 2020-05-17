@@ -1,0 +1,26 @@
+I"�<h1 id="markdown">MarkDown</h1>
+<p><a href="https://www.runoob.com/markdown/md-link.html">菜鸟教程</a></p>
+
+<h1 id="代码示例">代码示例</h1>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">$</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="nx">alert</span><span class="p">(</span><span class="dl">'</span><span class="s1">RUNOOB</span><span class="dl">'</span><span class="p">);</span>
+<span class="p">});</span>
+<span class="err">#</span><span class="nx">include</span><span class="o">&lt;</span><span class="nx">stdio</span><span class="p">.</span><span class="nx">h</span><span class="o">&gt;</span>
+	<span class="k">void</span> <span class="nx">main</span> <span class="p">()</span>
+	<span class="p">{</span>
+		<span class="k">return</span><span class="p">;</span>
+	<span class="p">}</span>
+</code></pre></div></div>
+
+<pre class="line-numbers">
+    <code class="language-markup">
+    	main()
+    	{
+
+    	}
+    </code>
+</pre>
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	<span class="nt">p</span> <span class="p">{</span> <span class="nl">color</span><span class="p">:</span> <span class="no">red</span> <span class="p">}</span>
+</code></pre></div></div>
+:ET
