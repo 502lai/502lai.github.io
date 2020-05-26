@@ -1,0 +1,25 @@
+# XAML
+
+## 02XAML基础
+XMAL里只有一个顶级元素（window元素或者page元素）
+不知所云。。。。。
+(代码：WpfApp1)
+
+## 03只使用代码来创建wpf应用程序
+(代码：WpfApp2)
+
+## 04使用代码和未经编译的标记XAML创建WPF应用程序
+使用XAMLReader类将未被编译的xaml文件内容太加载到一个已经存在的窗体中
+(代码：WpfApp3)
+
+## 05使用StackPanel面板进行简单布局
+(代码：WpfApp3_1)
+
+## 06WrapPanel面板和DockPanel面板
+(代码：WpfApp3_2)
+
+## 07Grid面板
+(代码：WpfApp3_3)
+
+# 08使用Canvas面板进行基于坐标的布局
+(代码：WpfApp3_4)
